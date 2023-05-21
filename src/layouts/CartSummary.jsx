@@ -5,12 +5,12 @@ export default function CartSummary() {
     <div>
       <Dropdown item text="Language">
         <Dropdown.Menu>
-          <Dropdown.Item>Türkçe</Dropdown.Item>
-          <Dropdown.Item>English</Dropdown.Item>
-          <Dropdown.Item>Russian</Dropdown.Item>
-          <Dropdown.Item>Spanish</Dropdown.Item>
-          <Dropdown.Item>Français</Dropdown.Item>
-          <Dropdown.Item>Makedonian</Dropdown.Item>
+          <Dropdown.Item>Laptop</Dropdown.Item>
+          <Dropdown.Item>Klavye</Dropdown.Item>
+          <Dropdown.Item>Mouse</Dropdown.Item>
+          <Dropdown.Item>Ekran</Dropdown.Item>
+          <Dropdown.Item>Hoparlör</Dropdown.Item>
+          <Dropdown.Item>Usb Disk</Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>
     </div>
