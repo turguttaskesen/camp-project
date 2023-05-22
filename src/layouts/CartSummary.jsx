@@ -4,7 +4,7 @@ import { Dropdown } from "semantic-ui-react";
 export default function CartSummary() {
   return (
     <div>
-      <Dropdown item text="Language">
+      <Dropdown item text="Sepetiniz">
         <Dropdown.Menu>
           <Dropdown.Item>Laptop</Dropdown.Item>
           <Dropdown.Item>Klavye</Dropdown.Item>

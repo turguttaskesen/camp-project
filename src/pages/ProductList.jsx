@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 
 export default function ProductList() {
   const [products, setProducts] = useState([]);
+  
   useEffect(() => {
     let productService = new ProductService();
     productService
